@@ -1,0 +1,8 @@
+{
+    "name": "base/cardTypes/Task",
+    "displayName": "",
+    "workflow": "base/workflows/Lifecycle",
+    "customFields": [],
+    "alwaysVisibleFields": [],
+    "optionallyVisibleFields": []
+}
