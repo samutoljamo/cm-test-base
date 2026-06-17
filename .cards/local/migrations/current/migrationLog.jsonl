@@ -1,1 +1,2 @@
 {"timestamp":"2026-06-17T12:53:35.381Z","operation":"resource_update","target":"base/workflows/Lifecycle","parameters":{"type":"workflows","operation":{"name":"remove","target":{"name":"Deprecated","category":"closed"},"replacementValue":{"name":"Approved","category":"closed"}},"key":"states"}}
+{"timestamp":"2026-06-17T12:53:36.132Z","operation":"resource_update","target":"base/fieldTypes/estimate","parameters":{"type":"fieldTypes","operation":{"name":"change","target":"number","to":"shortText"},"key":"dataType"}}

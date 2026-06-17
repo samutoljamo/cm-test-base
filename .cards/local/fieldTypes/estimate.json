@@ -1,5 +1,5 @@
 {
     "name": "base/fieldTypes/estimate",
     "displayName": "",
-    "dataType": "number"
+    "dataType": "shortText"
 }
