@@ -10,7 +10,7 @@
             "enumValue": "high"
         },
         {
-            "enumValue": "critical"
+            "enumValue": "urgent"
         }
     ]
 }
