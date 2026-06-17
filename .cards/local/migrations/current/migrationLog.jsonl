@@ -1,1 +1,2 @@
 {"timestamp":"2026-06-17T12:53:19.494Z","operation":"resource_update","target":"base/fieldTypes/priority","parameters":{"type":"fieldTypes","operation":{"name":"remove","target":{"enumValue":"value1"},"replacementValue":{"enumValue":"low"}},"key":"enumValues"}}
+{"timestamp":"2026-06-17T12:53:20.220Z","operation":"resource_update","target":"base/fieldTypes/priority","parameters":{"type":"fieldTypes","operation":{"name":"remove","target":{"enumValue":"value2"},"replacementValue":{"enumValue":"low"}},"key":"enumValues"}}

@@ -4,9 +4,6 @@
     "dataType": "enum",
     "enumValues": [
         {
-            "enumValue": "value2"
-        },
-        {
             "enumValue": "low"
         },
         {
