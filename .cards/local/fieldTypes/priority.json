@@ -11,6 +11,9 @@
         },
         {
             "enumValue": "low"
+        },
+        {
+            "enumValue": "medium"
         }
     ]
 }
