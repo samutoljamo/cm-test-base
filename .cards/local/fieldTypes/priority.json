@@ -8,6 +8,9 @@
         },
         {
             "enumValue": "value2"
+        },
+        {
+            "enumValue": "low"
         }
     ]
 }
