@@ -4,7 +4,11 @@
     "workflow": "base/workflows/Lifecycle",
     "customFields": [
         {
-            "name": "base/fieldTypes/priority"
+            "name": "base/fieldTypes/priority",
+            "isCalculated": false
+        },
+        {
+            "name": "base/fieldTypes/estimate"
         }
     ],
     "alwaysVisibleFields": [],
