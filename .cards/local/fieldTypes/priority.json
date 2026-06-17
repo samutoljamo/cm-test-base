@@ -4,9 +4,6 @@
     "dataType": "enum",
     "enumValues": [
         {
-            "enumValue": "low"
-        },
-        {
             "enumValue": "medium"
         },
         {
