@@ -1,5 +1,5 @@
 {
-    "name": "base/fieldTypes/legacyId",
+    "name": "base/fieldTypes/externalRef",
     "displayName": "",
     "dataType": "shortText"
 }
