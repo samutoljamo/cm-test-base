@@ -1,0 +1,1 @@
+{"timestamp":"2026-06-17T12:53:39.980Z","operation":"resource_rename","target":"base/cardTypes/Task","parameters":{"type":"cardTypes","operation":{"name":"change","target":"base/cardTypes/Task","to":"base/cardTypes/WorkItem"}}}

@@ -1,5 +1,5 @@
 {
-    "name": "base/cardTypes/Task",
+    "name": "base/cardTypes/WorkItem",
     "displayName": "",
     "workflow": "base/workflows/Lifecycle",
     "customFields": [
@@ -8,7 +8,8 @@
             "isCalculated": false
         },
         {
-            "name": "base/fieldTypes/estimate"
+            "name": "base/fieldTypes/estimate",
+            "isCalculated": false
         }
     ],
     "alwaysVisibleFields": [],
