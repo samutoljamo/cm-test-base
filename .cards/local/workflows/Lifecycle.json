@@ -9,10 +9,6 @@
         {
             "name": "Approved",
             "category": "closed"
-        },
-        {
-            "name": "Deprecated",
-            "category": "closed"
         }
     ],
     "transitions": [
@@ -35,7 +31,7 @@
             "fromState": [
                 "*"
             ],
-            "toState": "Deprecated"
+            "toState": "Approved"
         }
     ]
 }
