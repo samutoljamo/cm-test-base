@@ -1,0 +1,13 @@
+{
+    "name": "base/fieldTypes/priority",
+    "displayName": "",
+    "dataType": "enum",
+    "enumValues": [
+        {
+            "enumValue": "value1"
+        },
+        {
+            "enumValue": "value2"
+        }
+    ]
+}
