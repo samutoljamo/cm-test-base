@@ -17,6 +17,9 @@
         },
         {
             "enumValue": "high"
+        },
+        {
+            "enumValue": "critical"
         }
     ]
 }
